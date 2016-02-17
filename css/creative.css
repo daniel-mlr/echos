@@ -210,7 +210,8 @@ header {
     color: #006bbd;
 
     /*background-image: url(../img/header.jpg);*/
-    background-image: url(../img/background-header.jpg);
+    /*background-image: url(../img/background-header.jpg);*/
+    background-image: url(http://res.cloudinary.com/danielmeilleurimg/image/upload/background-header_mrmquk);
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
