@@ -1,0 +1,10 @@
+Session.vim
+css/bootstrap.min.css
+css/bootstrap.css
+js/bootstrap.min.js
+.backup
+img/*
+js/*
+*~
+*.swp
+clips*
