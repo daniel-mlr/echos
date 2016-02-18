@@ -679,3 +679,20 @@ footer p a {
         margin: auto;
     }
 }
+.social {
+}
+.social i {
+    /*background: #205D7A;*/
+	/*color: #fff;*/
+	width: 35px;
+	height: 35px;
+	border-radius: 20px;
+	font-size: 35px;
+	text-align: center;
+	margin: 20px 10px 0 0 ;
+	/*padding-top: 30px;*/
+	transition: all 0.2s ease-in-out;
+}
+#contact .social {
+    font-size: 45px;
+}
