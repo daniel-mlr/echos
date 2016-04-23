@@ -209,8 +209,6 @@ header {
     color: #8284b0;
     color: #006bbd;
 
-    /*background-image: url(../img/header.jpg);*/
-    /*background-image: url(../img/background-header.jpg);*/
     background-image: url(http://res.cloudinary.com/danielmeilleurimg/image/upload/background-header_mrmquk);
     background-position: center;
     -webkit-background-size: cover;
@@ -278,12 +276,6 @@ header .header-content .header-content-inner p {
     }
     /* Sun 15 Nov 2015 01:19:42 AM PST */
     .portee {
-        /* background-image: url(../img/wavex5.gif); */
-        /* background-image: url(../img/waves-x5-100-d1ded5ff-500x300.png);*/
-        /* background-image: url(../img/waves-x5-100-d2d3e6ff-500x300.png); */
-        /* background-image: url(../img/waves-x5-100-f0f1f7ff-500x300.png); */
-        /* background-image: url(../img/waves-x5-100-e4e5f0ff-500x300.png); */
-        /* background-image: url(../img/waves-x5-100-dfe0f2ff-500x300.png); */
         background-image: url(../img/waves-x5-100-dadbedff-500x300.png);
         background-repeat: repeat-x;
         background-attachment: local;
@@ -698,4 +690,11 @@ footer p a {
 }
 #annonce {
     font-size: 24px;
+}
+#titre-concert {
+    font-family: 'Lobster', cursive, 'Helvetica Neue',Arial,sans-serif;
+    font-size: 32px;
+}
+#titre-concert a {
+    color: #006bbd;
 }
